@@ -18,4 +18,4 @@ Hi, I'm Tadiwanashe Divine Mphame, a software development student with a passion
 
 ## Contact Me
 * Email: [mphametadiwanashe@gmail.com]
-* LinkedIn: [your LinkedIn profile link](your LinkedIn profile link)
+* LinkedIn: (https://www.linkedin.com/in/tadiwanashe-mphame)
